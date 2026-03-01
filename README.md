@@ -1,4 +1,4 @@
-# ensemble-learning(RF)-marketing-campaign-prediction
+# Ensemble-learning(RF)-marketing-campaign-prediction
 
 ##  Project Overview
 Marketing campaigns are expensive and often inefficient if not targeted properly. 
